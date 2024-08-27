@@ -1,0 +1,40 @@
+
+
+.body {
+  background-color: rgb(240, 240, 240);
+  position: relative;
+  height: 750px;
+  padding: 10px;
+  width: 320px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 40px;
+  margin-bottom: 40px;
+} 
+
+.task {
+  background-color: white;
+  border-radius: 5%;
+  padding: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.search {
+  right: auto;
+  left: auto;
+  /* margin: 5px; */
+  width:300px;
+ position: absolute;
+ bottom:10px;
+}
+
+
+.done_task{
+
+  background-color: white;
+  border-radius: 5%;
+  padding: 5px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
